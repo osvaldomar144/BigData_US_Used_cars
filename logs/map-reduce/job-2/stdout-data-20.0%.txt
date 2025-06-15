@@ -1,0 +1,11 @@
+Deleted /user/diggi/map-reduce/job-2
+Abbeville	2015	basso	0	0	[]
+Abbeville	2015	medio	3	71.67	['-', 'Rear', 'Front']
+Abbeville	2017	basso	1	64.0	['Power', 'Mirror', 'Control']
+Abbeville	2019	alto	1	21.0	['Front', 'and', 'Rear']
+Abbeville	2019	basso	1	245.0	['and', 'Front', 'Rear']
+Abbeville	2019	medio	3	49.0	['Front', 'Rear', 'and']
+Abbeville	2020	alto	2	210.5	['Rear', 'Front', 'Power']
+Abbeville	2020	medio	9	93.78	['Front', 'Rear', 'and']
+Abbeville	2021	alto	6	121.67	['Rear', 'and', 'Front']
+Abbotsford	2009	basso	1	40.0	[]

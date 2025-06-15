@@ -1,0 +1,11 @@
+Deleted /user/diggi/map-reduce/job-2
+Abbeville	2012	basso	0	0	[]
+Abbeville	2013	basso	1	20.0	['-', 'Front', 'Rear']
+Abbeville	2013	medio	1	238.0	['Rear', 'Mirror', 'Passenger']
+Abbeville	2014	basso	2	108.0	['-', 'Front', 'Rear']
+Abbeville	2015	basso	2	176.5	['Power', 'Rear', 'Seat']
+Abbeville	2016	basso	4	57.5	['-', 'Rear', 'Front']
+Abbeville	2016	medio	2	204.5	['Power', 'Rear', 'Mirror']
+Abbeville	2017	basso	1	37.0	['Power', 'Rear', 'Seat']
+Abbeville	2017	medio	6	86.67	['-', 'Front', 'Rear']
+Abbeville	2018	basso	6	92.83	['Rear', 'Power', 'Air']

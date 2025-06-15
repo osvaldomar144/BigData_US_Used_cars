@@ -1,0 +1,16 @@
++---------+----+------+------------+----------------+--------------------+
+|     city|year|fascia|num_macchine|avg_daysonmarket|         top_3_words|
++---------+----+------+------------+----------------+--------------------+
+|Abbeville|2015| basso|           3|           71.67|    Rear,Front,Power|
+|Abbeville|2021|  alto|           1|            40.0|                    |
+| Aberdeen|2005| basso|           3|           67.33|     Power,and,Front|
+| Aberdeen|2012| basso|           4|            59.0|   and,control,Power|
+| Aberdeen|2014| basso|           8|           63.63|      the,Front,Rear|
+| Aberdeen|2015| basso|           5|            72.2|    Airbag,Power,and|
+| Aberdeen|2019| medio|           9|           111.0|    Power,Rear,Front|
+| Aberdeen|2021| medio|           4|           19.75|Power,Rear,Passenger|
+|  Abilene|2006| basso|           1|            33.0|    Rear,Front,Power|
+|  Abilene|2007| basso|           2|            13.0|         NL,and,Rear|
++---------+----+------+------------+----------------+--------------------+
+only showing top 10 rows
+
