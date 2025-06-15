@@ -1,6 +1,6 @@
 # 🚗 Analisi Dati US Used Cars con Big Data
 
-Progetto di analisi ed elaborazione dati utilizzando tecnologie Big Data (Hadoop & Spark) sul dataset [US Used Cars](https://www.kaggle.com/datasets/austinreese/usa-cers-dataset) da Kaggle.
+Progetto di analisi ed elaborazione dati utilizzando tecnologie Big Data (Hadoop & Spark) sul dataset [US Used Cars](https://www.kaggle.com/datasets/ananaymital/us-used-cars-dataset) da Kaggle.
 
 ---
 
