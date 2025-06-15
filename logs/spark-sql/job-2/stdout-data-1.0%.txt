@@ -1,0 +1,16 @@
++----------+----+------+------------+----------------+-----------------+
+|      city|year|fascia|num_macchine|avg_daysonmarket|      top_3_words|
++----------+----+------+------------+----------------+-----------------+
+| Abbeville|2020|  alto|           1|             6.0|   and,Rear,Front|
+| Abbeville|2020| medio|           1|            16.0|                 |
+|Abbotsford|2020| medio|           2|            16.0|                 |
+|  Aberdeen|2014| basso|           1|            63.0|    Power,STOP,BY|
+|  Aberdeen|2018| medio|           1|           136.0|   Air,Bag,Engine|
+|  Aberdeen|2020| medio|           2|            30.5| Power,Front,Rear|
+|   Abilene|2018|  alto|           1|             6.0|Power,Rear,Driver|
+|   Abilene|2021| medio|           1|            57.0|    NL,and,System|
+|     Acton|2016| basso|           1|            47.0|    Air,Bag,Power|
+|     Acton|2017| medio|           1|            12.0|  Front,Seat,Rear|
++----------+----+------+------------+----------------+-----------------+
+only showing top 10 rows
+

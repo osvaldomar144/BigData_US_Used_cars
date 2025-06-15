@@ -1,0 +1,16 @@
++----------+----+------+------------+----------------+--------------------+
+|      city|year|fascia|num_macchine|avg_daysonmarket|         top_3_words|
++----------+----+------+------------+----------------+--------------------+
+| Abbeville|2015| basso|           2|            25.0|      and,Power,Rear|
+| Abbeville|2016| medio|           1|            37.0|     Power,Rear,Seat|
+|Abbotsford|2016| medio|           1|            70.0|                    |
+|  Aberdeen|2005| basso|           3|          105.33|     and,Front,Power|
+|  Aberdeen|2014| basso|          15|           116.4|    Power,Rear,Front|
+|   Abilene|1995| medio|           1|            37.0|Great,steering,Front|
+|   Abilene|2006| basso|           3|            46.0|        NL,and,Front|
+|   Abilene|2013| medio|           4|            10.0|  Power,Front,system|
+|   Abilene|2016| medio|          10|            24.2|      Rear,and,Front|
+|   Abilene|2021|  alto|           2|             5.5|       NL,System,and|
++----------+----+------+------------+----------------+--------------------+
+only showing top 10 rows
+
